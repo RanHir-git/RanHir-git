@@ -60,9 +60,9 @@ Environmental monitoring pipeline processing multi-source cellular data
 
 ## 📊 GitHub Stats
 
-![Ran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanHir-git&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Ran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanHir-git&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RanHir-git&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RanHir-git&theme=radical)
 
 ---
 
